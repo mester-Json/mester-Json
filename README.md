@@ -1,9 +1,9 @@
-#  :suspect: About Me :
+# :godmode: About Me :
 Je m'appelle Jayson Decubber, un jeune futur développeur. Je n'ai pas obtenu mon diplôme en développement web et mobile (bac+2), 
 mais actuellement je suis en formation bac+3 d'apprenti concepteur développeur d'application JavaEE chez Dawan / Pardawan / Jehann.
-<br>
+<br> 
 
-# :pushpin: My Project :
+# :pushpin: My Project : 
 <br> https://github.com/mester-Json?tab=repositories
 
 <br>https://mester-json.github.io/Mon-cv/
