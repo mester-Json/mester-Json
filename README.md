@@ -1,6 +1,6 @@
 # 💫 About Me:
-Je m'appelle Jayson Decubber, un jeune futur développeur.<br>Actuellement, je suis en cours d'obtention de mon diplôme en développement web et mobile, également connu sous le nom de "DWWMC". Actuellement Je suis en formation d'Apprenti Concepteur Développeur
-d'application JavaEE chez 	Dawan / Pardawan / Jehann
+Je m'appelle Jayson Decubber, un jeune futur développeur. Je n'ai pas obtenu mon diplôme en développement web et mobile (bac+2), 
+mais actuellement je suis en formation bac+3 d'apprenti concepteur développeur d'application JavaEE chez Dawan / Pardawan / Jehann.
 <br>
 
 <br>https://mester-json.github.io/Suicka-game/
