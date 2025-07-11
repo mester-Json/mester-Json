@@ -16,8 +16,6 @@ mais actuellement je suis en formation bac+3 d'apprenti concepteur développeur 
 
 <br> https://github.com/mester-Json?tab=repositories
 
-<br>https://mester-json.github.io/Mon-cv/
-
 <br> https://mester-json.github.io/Suicka-game/
 
 ---                                                                                                                          ---
