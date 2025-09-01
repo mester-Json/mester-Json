@@ -1,7 +1,8 @@
 # :thought_balloon: About Me : 
 
-Je m'appelle Jayson Decubber, un jeune futur développeur. Je n'ai pas obtenu mon diplôme en développement web et mobile (bac+2), 
-mais actuellement je suis en formation bac+3 d'apprenti concepteur développeur d'application JavaEE chez Dawan / Pardawan / Jehann.
+Hello World !
+Apprenti Expert IT – Applications Intelligentes et Big Data (Bac +5).
+Motivé, curieux et créatif, je suis prêt à contribuer à des projets innovants et à relever de nouveaux défis technologiques.
 
 ---                                                                                                                          ---
 
